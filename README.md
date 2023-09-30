@@ -37,7 +37,7 @@
 
 ## 📍 Overview
 
-Projeto de estudo para aprimorar meus conhecimentos com caching utilizando Redis, aproveitei o projeto para gerar esse Readme utilizando a plataforma readme-ai que utiliza a OpenAI's GPT para gerar readme de acordo com seu repositorio no guthub.
+Projeto de estudo para aprimorar meus conhecimentos com caching utilizando Redis, aproveitei o projeto para gerar esse Readme utilizando a plataforma readme-ai que utiliza a OpenAI's GPT para gerar readme de acordo com seu repositorio no github.
 
 ---
 
